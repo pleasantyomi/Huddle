@@ -19,7 +19,7 @@ const Footer = () => {
         <div>
             <div>
                 <div>
-                    <img className="mb-0 pb-0 w-full" src={cutOut}/>
+                    <img className="block w-full" src={cutOut}/>
                 </div>
 
                 <div className="lg:flex lg:justify-between grid bg-VeryDarkCyan w-full h-fit  font-secondary text-white pt-10 pb-20 lg:px-20 text-sm">
