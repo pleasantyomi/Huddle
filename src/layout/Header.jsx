@@ -3,7 +3,7 @@ import logo from '../assets/logo.svg'
 const Header = () => {
     return ( 
         <div>
-            <div className="flex justify-between items-center py-10 lg:px-14 px-8">
+            <div className="flex justify-between items-center py-10 lg:px-14 px-5">
                 <div>
                     <img className="lg:h-8 h-6 w-auto" src={logo}/>
                 </div>
