@@ -8,7 +8,7 @@ import Users from '../components/Users';
 
 const Container = () => {
     return ( 
-        <div>
+        <div className="overflow-x-hidden">
             <Hero/>
             <Image/>
             <Members/>

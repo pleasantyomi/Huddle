@@ -9,7 +9,7 @@ const Header = () => {
                 </div>
 
                 <div>
-                    <button className="text-LightPink hover:text-Pink bg-transparent border border-LightPink hover:border-Pink rounded-full text-md px-6 py-1 ">Try it free</button>
+                    <button className="text-LightPink hover:text-Pink bg-transparent border border-LightPink hover:border-Pink rounded-full transition-all delay-100 ease-in text-md px-6 py-1 ">Try it free</button>
                 </div>
             </div>
             
